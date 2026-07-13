@@ -1,0 +1,15 @@
+# Compiled files
+*.class
+bin/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Map editor backups
+*~
