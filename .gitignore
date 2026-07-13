@@ -2,10 +2,9 @@
 *.class
 bin/
 
-# Eclipse project files
-.classpath
-.project
-.settings/
+# Eclipse per-user settings (keep project files tracked)
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
 
 # OS files
 Thumbs.db
